@@ -1,0 +1,12 @@
+
+a {
+    font-size: larger;
+}
+
+a:hover {
+    font-size: x-large;
+    color:red!important;
+    transition: all ease-in-out;
+}
+
+
